@@ -35,23 +35,8 @@ O cardápio foi desenvolvido para uso comercial real, aplicando conhecimentos de
 ## 🚀 Acesso ao projeto
 
 - **Repositório:** https://github.com/ozzy-00/rota-do-frango
-- **Cardápio online:** https://cardapio--rota-do-frango-5.vercel.app/
+- **Cardápio online:** https://www.rotadofrango.com.br/
 
-## 💻 Como executar localmente
-
-1. Clone este repositório:
-
-   ```bash
-   git clone https://github.com/ozzy-00/rota-do-frango.git
-   ```
-
-2. Entre na pasta do projeto:
-
-   ```bash
-   cd rota-do-frango
-   ```
-
-3. Abra o arquivo `index.html` no navegador.
 
 ## 📚 Aprendizados
 
